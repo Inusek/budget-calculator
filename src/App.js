@@ -38,7 +38,7 @@ export default function App() {
     const [alert, setAlert] = useState({ show: false });
     // edit
     const [edit, setEdit] = useState(false);
-    // edit item
+    // edit item jjj
     const [id, setId] = useState(0);
     // ------useEffect-------
     useEffect(() => {
